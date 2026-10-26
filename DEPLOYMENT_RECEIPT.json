@@ -1,0 +1,14 @@
+{
+  "project": "galen-of-pergamon-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "FDnvdXVC195Q5KA2n8FPCCbN8h6qTo4GS33KJuBSumoD",
+  "vault_account": "3mcBAF1h5fS4DB6G1CkhF2Shwn8z7qvPPpc7cCQPKV1o",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3bN331dafVCJ5MAHdvMZPLFAm7VjLfy7VZ3r6qPHd2UJayMSQBn41UHQn3U6rEkdwAFK6UkPrWKgq4M94JwWrFYM",
+  "account_tx": "5vMXuyuXnCK3WSgFXkrgDVEeFUUiC6Trbcy2L8sy8rxhnhVBwhzM6EnuQrcTwNcz3SxH2g4J4MDSLawAbdZyn7jb",
+  "mint_tx": "3pihhvAizH8NNg5YisY8VLBa8uJpo3AHJYGteweaLVz1ExEZJQfY4NCF6Nmn1SFacXQWD8U4XsnUdwgKq4Q7fs3R",
+  "solana_explorer_mint": "https://explorer.solana.com/address/FDnvdXVC195Q5KA2n8FPCCbN8h6qTo4GS33KJuBSumoD?cluster=devnet",
+  "timestamp": "2026-10-26 16:33:14 UTC"
+}
